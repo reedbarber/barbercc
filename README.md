@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Barber.cc
 
 You can use the [editor on GitHub](https://github.com/reedbarber/barbercc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
